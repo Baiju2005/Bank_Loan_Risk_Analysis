@@ -111,7 +111,7 @@ This project is for educational purposes. Feel free to use the code with proper 
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**BAIJU KUMAR YADAV**  
 📧 yadavbaiju2005@gmail.com 
 🌐 LinkedIn : https://www.linkedin.com/in/baiju-yadav-4882b81aa
 
